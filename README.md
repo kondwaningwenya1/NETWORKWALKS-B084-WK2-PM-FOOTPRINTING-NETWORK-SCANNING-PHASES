@@ -117,24 +117,36 @@ Finally, I learned that footprinting and network scanning must always be conduct
 
 
 8. Evidences Collected
- 
+   
+<img width="1366" height="768" alt="Whois Results" src="https://github.com/user-attachments/assets/d352f1c9-9634-4774-bc55-2cfdd89d44d1" />
 Figure 8.0 WHOIS domain registration results.
- 
+
+
+ <img width="1366" height="768" alt="Whatweb results" src="https://github.com/user-attachments/assets/ecd713fb-bd85-4ea7-8e9a-9b59ae6c257f" />
 Figure 8.1 WhatWeb website fingerprinting results.
- 
+
+
+<img width="1366" height="768" alt="nslookup results" src="https://github.com/user-attachments/assets/26553ef4-9966-4f9f-af79-8b2f2802786a" />
 Figure 8.3 Nslookup domain resolution results.
 
 
-
- 
+<img width="1366" height="768" alt="Curl results" src="https://github.com/user-attachments/assets/6094348f-8376-40fa-8bc9-dcb25fad64ae" />
 Figure 8.4 Curl HTTP response headers.
- 
+
+
+<img width="1366" height="768" alt="wafw00f results" src="https://github.com/user-attachments/assets/7efe0eeb-20b9-44ef-ac0d-77eec5461e7d" />
 Figure 8.5 Wafw00f WAF detection results.
- 
+
+
+<img width="1366" height="768" alt="dnsrecon results" src="https://github.com/user-attachments/assets/6ae53453-ba71-4234-a790-788c65d6f42b" />
 Figure 8.6 DNSRecon DNS enumeration results.
- 
+
+
+ <img width="1366" height="768" alt="Screenshot (695)" src="https://github.com/user-attachments/assets/e55df9ae-35a1-46fd-9473-b1a30e28810d" />
 Figure 8.7. Nmap network scanning results showing the three live hosts.
- .
+
+
+<img width="1366" height="768" alt="topology graph" src="https://github.com/user-attachments/assets/b4384a29-8b1f-41fd-bb20-fd5a5c6e0033" />
 Figure 8.8 network topology screenshot.
 
 

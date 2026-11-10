@@ -6,7 +6,7 @@
 | Pentester Name<br>(Cybersecurity Professional) | Kondwani Ngwenya |
 | :--- | :--- |
 | **Program/Batch** | B084-Networkwalks |
-| **Date** | 09 November 2026 |
+| **Date** | 10th November 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
 | **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
 | **Permission secured from client?** | Yes |
@@ -29,7 +29,7 @@ The second activity involved scanning my local network to identify active hosts,
 
 All commands were executed in Kali Linux. The results obtained from each activity were analyzed and documented, with screenshots serving as evidence of the practical work performed.
 
----
+
 
 ### 3. Tools Used
 The following tools were used during the practical exercises:
@@ -46,7 +46,7 @@ The following tools were used during the practical exercises:
 | **Nmap** | Discovering live hosts and identifying open ports and services on the local network. |
 | **Windows CMD** | Identifying local network configuration and MAC addresses. |
 
----
+
 
 ### 4. Activities Performed
 

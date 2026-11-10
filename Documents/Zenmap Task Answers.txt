@@ -1,0 +1,54 @@
+Task3:
+Starting Nmap 7.95 ( https://nmap.org ) at 2026-11-09 16:46 South Africa Standard Time
+Nmap scan report for 192.168.1.1
+Host is up (0.010s latency).
+Not shown: 96 closed tcp ports (reset)
+PORT     STATE SERVICE
+53/tcp   open  domain
+80/tcp   open  http
+443/tcp  open  https
+5060/tcp open  sip
+MAC Address: 98:A9:42:57:4E:43 (Guangzhou Tozed Kangwei Intelligent Technology)
+
+Nmap scan report for DESKTOP-EH27S8P (192.168.1.188)
+Host is up (0.035s latency).
+Not shown: 96 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3389/tcp open  ms-wbt-server
+MAC Address: 5C:C5:D4:6F:92:F3 (Intel Corporate)
+
+Nmap scan report for 192.168.1.101
+Host is up (0.00029s latency).
+Not shown: 95 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+3389/tcp open  ms-wbt-server
+
+Nmap done: 256 IP addresses (3 hosts up) scanned in 8.97 seconds
+
+
+Task4: How many hosts are live in your subnet? 
+Answer: 3 hosts are live (including my PC) 
+
+Task5: What are the IP addresses of the live hosts? 
+Answer:  192.168.1.1, 192.168.1.188, 192.168.1.101
+
+Task6:What are the MAC addresses of the live hosts? 
+Answer:  
+IP address: 192.168.1.1
+MAC Address: 98:A9:42:57:4E:43
+
+IP adress: 192.168.1.188
+MAC Address: 5C:C5:D4:6F:92:F3
+
+IP Address 192.168.1.101
+MAC Address: E4-A4-71-58-75-64
+
+
+Task7: Done(topology)

@@ -198,15 +198,18 @@ Figure 8.7. Nmap network scanning results showing the three live hosts.
 
 
 <img width="1366" height="768" alt="topology graph" src="https://github.com/user-attachments/assets/b4384a29-8b1f-41fd-bb20-fd5a5c6e0033" />
-Figure 8.8 network topology screenshot.
+Figure 8.8 network topology screenshot.<br>
 
 
-👤 Author
-Waqas Karim CCIE
-Cybersecurity Professional B084
+Author:
+Waqas Karim CCIE<br>
+Cybersecurity Professional B084<br>
 LinkedIn: https://www.linkedin.com/in/waqaskarim/
 
-📌 Project Information
-Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: GitHub
+| Project Information |
+| :--- | 
+| Program Name: Cybersecurity program at Networkwalks |
+|Week: 02 |
+| Repository: GitHub |
 
 
